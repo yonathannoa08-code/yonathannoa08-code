@@ -22,3 +22,4 @@ Siempre hay algo nuevo que construir y mejorar.
 ### Stack 
 
 [![Stack](https://skillicons.dev/icons?i=godot,git,github,bash,linux,windows,vscode&theme=dark)](https://skillicons.dev)
+![GitHub Stats](https://ghstats.dev/api/card?username=yonathannoa08-code)
